@@ -19,7 +19,7 @@ public:
         cout << "Enter makhraj: ";
         cin >> m;
         makhraj = m;
-    }*/س
+    }*/
     Kasr(int s, int m)
     {
         cout << "Enter sourat: ";
